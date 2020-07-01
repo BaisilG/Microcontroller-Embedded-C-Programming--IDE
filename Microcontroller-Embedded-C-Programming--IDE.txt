@@ -1,1 +1,12 @@
 LINK to connect is httpsgithub.comBaisilGMicrocontroller-Embedded-C-Programming--IDE.git
+
+
+link to get the ide 
+https://www.st.com/en/development-tools/stm32cubeide.html#get-software 
+
+
+
+
+
+
+
